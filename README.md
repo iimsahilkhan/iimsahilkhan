@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently student<br>i am looking to collaborate with clints<br>i am currently Second Year Computer Science Student<br>
+I'm Currently CS Student<br>I'm looking to Collaborate with Clints<br>I'm Currently Learne More About AI Era<br>
 
 
 ## 🌐 Socials:
