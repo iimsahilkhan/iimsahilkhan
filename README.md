@@ -1,6 +1,46 @@
 # 💫 About Me:
-I'm Currently CS Student<br>I'm looking to Collaborate with Clints<br>I'm Currently Learne More About AI Era<br>
+# Hi 👋, I'm Sahil Khan
 
+🎓 Computer Science Student  
+💻 Aspiring Software Developer | Data Analytics | AI/ML Enthusiast  
+
+I am passionate about building software solutions, analyzing data for insights, and exploring AI/ML to solve real-world problems. I believe in consistency, problem-solving, and hands-on learning.
+
+---
+
+## 🚀 What I’m Currently Working On
+- Strengthening **Data Structures & Algorithms**
+- Building projects using **Python & Java**
+- Learning **Data Analytics & AI/ML**
+- Exploring real-world data-driven solutions
+
+---
+
+### 📚 Core Concepts
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOPs)  
+- Problem Solving  
+
+### 📊 Data & Tools
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+
+---
+
+## 📂 Projects
+🔹 **Library Management System**  
+Python-based system to manage books and users.
+
+🔹 **Text-to-Speech Application**  
+Python application that converts text into speech.
+
+🔹 **Air Quality Detector**  
+Real-time air quality analysis using APIs and data visualization.
+
+➡️ More projects coming soon...
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iimsahilkhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iimsahilkhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jksahilkhan786@gmail.com) 
@@ -14,5 +54,12 @@ I'm Currently CS Student<br>I'm looking to Collaborate with Clints<br>I'm Curren
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iimsahilkhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/iimsahilkhan  
+
+📌 *Open to internships, collaborations, and learning opportunities.*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
