@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi 👋, I'm Sahil Khan
 
 🎓 Computer Science Student  
@@ -20,11 +19,6 @@ I am passionate about building software solutions, analyzing data for insights, 
 - Data Structures & Algorithms  
 - Object-Oriented Programming (OOPs)  
 - Problem Solving  
-
-### 📊 Data & Tools
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 
 ---
 
